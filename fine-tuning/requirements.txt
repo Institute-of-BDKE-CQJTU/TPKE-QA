@@ -1,0 +1,8 @@
+torch==1.7.1
+transformers==2.9.0
+tokenizers==0.7.0
+tensorboardX
+en-core-web-sm                   
+spacy           
+spacy-entity-linker==1.0.3
+jsonlines

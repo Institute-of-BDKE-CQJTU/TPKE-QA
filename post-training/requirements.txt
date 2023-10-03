@@ -1,0 +1,4 @@
+en-core-web-sm                   
+spacy                            
+torch                           
+transformers==4.21.0               
